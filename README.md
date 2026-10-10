@@ -16,6 +16,37 @@ Vorheriges Semester: [`aau_S26`](https://github.com/Fafoooo/aau_S26)
 
 ---
 
+## 📋 Modalitäten
+
+Was pro Fach erledigt werden muss. Details in den jeweiligen Repos, verbindlich ist Moodle.
+
+### Lineare Optimierung
+
+- [ ] *noch keine Infos*
+
+### Webtechnologien
+
+- [ ] **Anwesenheit**: prüfungsimmanent, vermutlich max. 2 Fehltermine
+- [ ] **Übungsblätter**: ≥ 60 % aller Aufgaben (~8 % der Note)
+- [ ] **Klausur 1**: bestehen
+- [ ] **Klausur 2**: bestehen (beide Pflicht fürs Projekt)
+- [ ] **Projekt** (4er-Gruppe, ab Dezember, Angular): ≥ 60 % der Punkte
+  - [ ] Anfangspräsentation
+  - [ ] Endpräsentation
+  - [ ] Einzelgespräch
+- [ ] **KI-Bericht**: pro Aufgabe mit KI-Nutzung ein PDF (Tool + Nutzung)
+
+### Logische Programmierung
+
+- [ ] **Abschlussprüfung**: ~50 % der Note
+- [ ] **Tests**: Gewichtung offen
+- [ ] **Projekt**: Details folgen
+- [ ] **Beteiligung** (optional): Punkte fürs Vorstellen von Lösungen
+- Hausaufgaben: keine Abgabe, keine Note, aber Prüfungsstoff
+- Tutorials: freiwillig
+
+---
+
 ## 🛠️ Setup
 
 ```bash
