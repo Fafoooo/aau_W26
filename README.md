@@ -11,6 +11,7 @@
 | 1 | **Lineare Optimierung** | [`aau_26W_Linear_Optimization`](https://github.com/Fafoooo/aau_26W_Linear_Optimization) |
 | 2 | **Webtechnologien** | [`aau_26W_Webtechnologien`](https://github.com/Fafoooo/aau_26W_Webtechnologien) |
 | 3 | **Logische Programmierung** | [`aau_26W_Logische_Programmierung`](https://github.com/Fafoooo/aau_26W_Logische_Programmierung) |
+| 4 | **Rechnernetze** | [`aau_26W_Rechnernetze`](https://github.com/Fafoooo/aau_26W_Rechnernetze) |
 
 Vorheriges Semester: [`aau_S26`](https://github.com/Fafoooo/aau_S26)
 
@@ -44,6 +45,10 @@ Was pro Fach erledigt werden muss. Details in den jeweiligen Repos, verbindlich 
 - [ ] **Beteiligung** (optional): Punkte fürs Vorstellen von Lösungen
 - Hausaufgaben: keine Abgabe, keine Note, aber Prüfungsstoff
 - Tutorials: freiwillig
+
+### Rechnernetze
+
+- [ ] *noch keine Infos*
 
 ---
 
