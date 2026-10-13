@@ -50,7 +50,12 @@ Was pro Fach erledigt werden muss. Details in den jeweiligen Repos, verbindlich 
 
 ### Rechnernetze
 
-- [ ] *noch keine Infos*
+- [ ] **Anwesenheit**: prüfungsimmanent (UE), keine Klausur, keine Kreuzerlliste
+- [ ] **Gruppe** festlegen (max. 3 Personen, Google-Tabelle aus den Aufnahme-Folien)
+- [ ] **Übungsblätter**: alle Pflicht, Abgabe in Moodle 2 h vor LV-Beginn als `uebxx-gruppeyy.zip` (25 %)
+- [ ] **Präsentation**: mind. 1× pro Gruppe/Person (25 %)
+- [ ] **Abschlussgespräch**: Einzelgespräch über Abgaben, Code und Themen (50 %)
+- [ ] **KI-Kennzeichnung**: Tool, Version, Datum (+ Anfrage bei übernommenem Code) als Kommentar im Programm
 
 ### Computerlinguistik
 
