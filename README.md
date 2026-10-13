@@ -12,6 +12,8 @@
 | 2 | **Webtechnologien** | [`aau_26W_Webtechnologien`](https://github.com/Fafoooo/aau_26W_Webtechnologien) |
 | 3 | **Logische Programmierung** | [`aau_26W_Logische_Programmierung`](https://github.com/Fafoooo/aau_26W_Logische_Programmierung) |
 | 4 | **Rechnernetze** | [`aau_26W_Rechnernetze`](https://github.com/Fafoooo/aau_26W_Rechnernetze) |
+| 5 | **Computerlinguistik** | [`aau_26W_Computerlinguistik`](https://github.com/Fafoooo/aau_26W_Computerlinguistik) |
+| 6 | **Security Engineering** | [`aau_26W_Security_Engineering`](https://github.com/Fafoooo/aau_26W_Security_Engineering) |
 
 Vorheriges Semester: [`aau_S26`](https://github.com/Fafoooo/aau_S26)
 
@@ -47,6 +49,14 @@ Was pro Fach erledigt werden muss. Details in den jeweiligen Repos, verbindlich 
 - Tutorials: freiwillig
 
 ### Rechnernetze
+
+- [ ] *noch keine Infos*
+
+### Computerlinguistik
+
+- [ ] *noch keine Infos*
+
+### Security Engineering
 
 - [ ] *noch keine Infos*
 
